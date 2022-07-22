@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/MySql-40AEF0?style=for-the-badge&logo=Mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-FF9E0F?style=for-the-badge&logo=MyBatis&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-EC1C24?style=for-the-badge&logo=JPA&logoColor=white">
+
 
 
 
