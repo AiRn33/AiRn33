@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
 </div>
 
+<div align="center">
+<img src="https://img.shields.io/badge/Amazon EC2-6DB33F?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+</div>
 
 
 
