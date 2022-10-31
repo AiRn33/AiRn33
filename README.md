@@ -1,4 +1,7 @@
 
+<p dir="auto">Hi, I am trying to become a nice developer<g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji>
+<br><br></p>
+
 <div align="center">
   초보 백엔드 개발자 김상복입니다.<br>
   Email : tkdqhr6777@naver.com<br>
