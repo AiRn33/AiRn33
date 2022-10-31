@@ -25,6 +25,5 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 </div>
 
-#41454A
-
+<img src="https://img.shields.io/badge/Firebase-41454A?style=flat-square&logo=firebase&logoColor=white"/>
 
