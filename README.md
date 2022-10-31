@@ -40,8 +40,7 @@
 ### 👋 반갑습니다!
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://airn3.tistory.com/)](https://airn3.tistory.com/) 
-[![Portfolio Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing)](https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing)
 
 
 * 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
