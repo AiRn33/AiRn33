@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=환영&fontSize=90" />
+
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -24,6 +27,4 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 </div>
-
-<img src="https://img.shields.io/badge/Firebase-41454A?style=flat-square&logo=Adidas&logoColor=white"/>
 
