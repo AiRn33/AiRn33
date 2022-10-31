@@ -44,15 +44,8 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing)](https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing)
 
 
-* 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
-* 🎨 유저를 생각하며 UI/UX 디자인에 관심이 많습니다.
-* 😎 나만의 일을 찾기위해 열심히 노력중입니다.
+* 💻 책임질 수 있는 개발자가 되고 싶은 초보 백엔드 개발자 김상복입니다.
+* 🎨 어떻게 하면 더 좋은 코드를 만들 수 있을 지 고민하고있습니다.
+* 😎 항상 발전하고 노력하는 개발자가 되겠습니다.
 
-**언어 및 도구**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
