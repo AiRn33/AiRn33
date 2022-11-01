@@ -1,4 +1,16 @@
- 
+ <div align="center">
+
+### 👋 반갑습니다!
+
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://airn3.tistory.com/)](https://airn3.tistory.com/) 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing)](https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing)
+
+
+* 💻 책임질 수 있는 개발자가 되고 싶은 초보 백엔드 개발자 김상복입니다.
+* 🎨 어떻게 하면 더 좋은 코드를 만들 수 있을 지 고민하고있습니다.
+* 😎 항상 발전하고 노력하는 개발자가 되겠습니다.
+</div>
+
 
 <div align="center">
   초보 백엔드 개발자 김상복입니다.<br>
@@ -37,15 +49,4 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 </div>
-
-### 👋 반갑습니다!
-
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://airn3.tistory.com/)](https://airn3.tistory.com/) 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing)](https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing)
-
-
-* 💻 책임질 수 있는 개발자가 되고 싶은 초보 백엔드 개발자 김상복입니다.
-* 🎨 어떻게 하면 더 좋은 코드를 만들 수 있을 지 고민하고있습니다.
-* 😎 항상 발전하고 노력하는 개발자가 되겠습니다.
-
 
