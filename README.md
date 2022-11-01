@@ -18,11 +18,11 @@
   Portfolio : <a href="https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing">포트폴리오 확인하기</a>
 </div>
 
-<br><br><br>
+<br><br>
 <div align="center">
-  languages
+ 사용해본 기술
 </div>
-
+<br>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
