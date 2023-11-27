@@ -15,7 +15,6 @@
 <div align="center">
   초보 백엔드 개발자 김상복입니다.<br>
   Email : tkdqhr6777@naver.com<br>
-  Portfolio : <a href="https://drive.google.com/file/d/1DQe1oUbfbQ4vMKBMN74C4PZ05LnStX7X/view?usp=sharing">포트폴리오 확인하기</a>
 </div>
 
 <br><br>
